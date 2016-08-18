@@ -1,0 +1,10 @@
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\bin\Debug\DataFile.exe.config
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\bin\Debug\DataFile.exe
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\bin\Debug\DataFile.pdb
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\bin\Debug\DataFile.xml
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.Form1.resources
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.Resources.resources
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.vbproj.GenerateResource.Cache
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.exe
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.xml
+c:\users\lesetja\documents\visual studio 2012\Projects\DataFile\DataFile\obj\Debug\DataFile.pdb
