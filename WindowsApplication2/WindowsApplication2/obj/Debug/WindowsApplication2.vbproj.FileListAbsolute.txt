@@ -1,0 +1,10 @@
+c:\users\lesetja\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\lesetja\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\lesetja\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AthleteApp.exe.config
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AthleteApp.exe
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AthleteApp.pdb
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AthleteApp.xml
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AthleteApp.exe
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AthleteApp.xml
+C:\Users\lesetja\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\AthleteApp.pdb
